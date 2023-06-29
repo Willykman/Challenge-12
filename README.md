@@ -13,7 +13,7 @@ Jupyter Lab
 
 **Contributors**
 
-The jupyter notebook was created by myself ewith the aid of the weeks class module worksheets.
+The jupyter notebook was created by myself with the aid of this weeks class module worksheets.
 
 
 
